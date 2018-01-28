@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriver.Specflow", "WebDriverTest\WebDriver.Specflow.csproj", "{121E750D-E8EE-4D57-8312-4AED2EBD507A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriver.Core", "WebDriver.Core\WebDriver.Core.csproj", "{AD050530-EDDD-4666-A12A-9525744BF005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{121E750D-E8EE-4D57-8312-4AED2EBD507A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121E750D-E8EE-4D57-8312-4AED2EBD507A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121E750D-E8EE-4D57-8312-4AED2EBD507A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121E750D-E8EE-4D57-8312-4AED2EBD507A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD050530-EDDD-4666-A12A-9525744BF005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD050530-EDDD-4666-A12A-9525744BF005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD050530-EDDD-4666-A12A-9525744BF005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD050530-EDDD-4666-A12A-9525744BF005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {274F4600-E65D-4B35-ACDE-E8FBBB611895}
+	EndGlobalSection
+EndGlobal
