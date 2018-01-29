@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriver.Specflow", "WebDriverTest\WebDriver.Specflow.csproj", "{121E750D-E8EE-4D57-8312-4AED2EBD507A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriver.Specflow", "WebDriver.SpecFlow\WebDriver.Specflow.csproj", "{121E750D-E8EE-4D57-8312-4AED2EBD507A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriver.Core", "WebDriver.Core\WebDriver.Core.csproj", "{AD050530-EDDD-4666-A12A-9525744BF005}"
 EndProject
